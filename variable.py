@@ -14,3 +14,7 @@ x, y, z = fruits
 print(x)
 print(y)
 print(z)
+#comma seperated variables
+x = 5
+y = "Five"
+print(x,y)
